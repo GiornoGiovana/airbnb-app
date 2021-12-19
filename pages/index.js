@@ -6,7 +6,6 @@ import LargeCard from "../components/LargeCard";
 import MediumCard from "../components/MediumCard";
 import SmallCard from "../components/SmallCard";
 
-//32:12
 export default function Home({ exploreData, cardsData }) {
   return (
     <div className="">
